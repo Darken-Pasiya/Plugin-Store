@@ -8,7 +8,7 @@
 <a href="https://github.com/Darken-Pasiya"><img title="YouTube" src="https://img.shields.io/badge/Plugin Store-darkblue?style=for-the-badge&logo=github"></a>
 ![Github Visitors](https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya/Plugin-Store&left_color=blueviolet&right_color=brightgreen)
 
-<a href="https://github.com/Anonymous-Zpt/T-banner4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Darken-Pasiya?color=blue&style=flat-square"></a>
+<a href="https://github.com/Anonymous-Zpt/T-banner4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Darken-Pasiya/Plugin-Store?color=blue&style=flat-square"></a>
 
 
 <p>
